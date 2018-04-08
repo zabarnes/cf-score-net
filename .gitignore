@@ -1,0 +1,10 @@
+
+.vscode/settings.json
+
+CheXNet-master.zip
+
+CXR_EZ 2-22-18.xlsx
+
+net/data/*
+
+net/experiments/*

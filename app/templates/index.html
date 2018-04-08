@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block login %}
+<form class="navbar-form navbar-right form-inline mt-2 mt-md-0" action = "{{ url_for('login') }}" method = "POST">
+      <input name="user" class="form-control mr-sm-2" type="text" placeholder="Username" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Begin Scoring</button>
+</form>
+{% endblock %}
+
+{% block content %}{% endblock %}
