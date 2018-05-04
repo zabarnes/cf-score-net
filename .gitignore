@@ -1,10 +1,12 @@
 
 .vscode/settings.json
 
-CheXNet-master.zip
+**.zip
 
-CXR_EZ 2-22-18.xlsx
+**.xlsx
 
-net/data/*
+model/experiments/**
+connect.sh
 
-net/experiments/*
+files/**
+*.npy

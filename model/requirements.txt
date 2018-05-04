@@ -1,0 +1,4 @@
+numpy
+tensorflow>=1.5
+tqdm
+Pillow
